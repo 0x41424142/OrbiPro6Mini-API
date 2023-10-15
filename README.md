@@ -50,7 +50,7 @@ scanned = r.scan_logs(logs)
 #Get devices as a dictionary:
 devices = r.get_devices()
 ```
-## Structure of the ```get_devices()``` Dictionary:
+## Structure of the ```get_devices()``` Dictionary
 ```
 devices[<NAME_OF_DEVICE>] : {
 
