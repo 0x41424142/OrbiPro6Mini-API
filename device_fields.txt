@@ -1,0 +1,25 @@
+ssid
+sec_type
+qos_uprate
+dev_kind
+device name
+dev_name
+conn_orbi_mac
+tx_rate
+conn_orbi_name
+connect_interface
+qos_downrate
+current version
+dev_model
+rx_rate
+ip
+device mac
+new_devtype_name
+channel
+wireless
+acl_status
+base_data
+module name
+rssi
+device ip
+mac
